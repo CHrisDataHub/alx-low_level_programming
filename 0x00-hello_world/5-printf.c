@@ -4,9 +4,8 @@
  * My hello, printf task
  * Return: return 1 after program execution
  */
-
 int main(void)
 {
-	printf("With proper grammar, but the outcome is a pieceof art,\n");
+	printf("With proper grammar, but the outcome is a piece of art,\n");
 	return (0);
-}	
+}
